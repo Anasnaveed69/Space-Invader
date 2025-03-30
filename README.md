@@ -2,7 +2,10 @@
 Space Invaders  a classic arcade-style game recreated using C++  
 
 Game Overview
-In this version of Space Invaders, the player controls a spaceship at the bottom of the screen, tasked with defending Earth from waves of alien invaders. The objective is to eliminate all the aliens before they reach the player's ship. The game features:
+In this version of Space Invaders, the player controls a spaceship at the bottom of the screen, tasked with defending Earth from waves of alien invaders. The objective is to eliminate all the aliens before they reach the player's ship. 
+<br>
+<br>
+The game features:
 <br>
 Player Movement : Use arrow keys (or equivalent controls) to move the spaceship left or right.
 <br>
